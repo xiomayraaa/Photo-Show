@@ -1,0 +1,30 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  
+}
+h1 {
+  background-color: lightblue;
+  color: blue;
+  text-align: center;
+}
+h2{
+  background-color: lightblue;
+  color: blue;
+  text-align: center;
+}
+.car{
+  height: 400px;
+  width: 390px;
+}
+.fireworks{
+  height: 400px;
+  width: 400px;
+}
+.sunset{
+  height: 400px;
+  width: 350px;
+}
+button{
+  box-align: center;
+}
